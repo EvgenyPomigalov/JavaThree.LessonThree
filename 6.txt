@@ -1,0 +1,1 @@
+SequenceInputStream represents a sequence of input streams. It allows to read from multiple of ordered streams.

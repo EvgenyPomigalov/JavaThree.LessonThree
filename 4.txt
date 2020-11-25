@@ -1,0 +1,1 @@
+InputStreamReader is a bridge from byte streams to character streams: it reads bytes and decodes them into characters using a specified charset.
