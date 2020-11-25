@@ -1,0 +1,1 @@
+BufferedReader reads text from a character-input stream, buffering characters for efficient reading of characters, arrays, and lines.

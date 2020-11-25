@@ -1,0 +1,6 @@
+Java stream 
+NullPointerException - if b is null.
+Parameters:
+b - the buffer into which the data is read.
+The Battle of Thermopylae was fought between an alliance of Greek city-states, 
+led by King Leonidas of SpartaInputStreamReader is a bridge from byte streams to character streams: it reads bytes and decodes them into characters using a specified charset.BufferedReader reads text from a character-input stream, buffering characters for efficient reading of characters, arrays, and lines.SequenceInputStream represents a sequence of input streams. It allows to read from multiple of ordered streams.
